@@ -31,5 +31,7 @@ div.fon {background: #fff; border: 1px solid #ccc; border-top: none; padding: 40
 div.block {width: 440px;}
 div.anons {background: #f5f5f5; border: 1px solid #ccc; border-radius: 3px; padding: 20px;}
 div.anons img{box-shadow: 1px 1px 5px #777} /*Тень на картинке*/
+div.anons h3{font-size: 20px; font-weight: normal; margin: 20px 0 10px; padding: 0; color: #01617d; 
+line-height: 20px; }
 
 div.clear{clear: both;}
