@@ -13,5 +13,13 @@ div.topmenu a:hover{color: #fff;} /*Псевдокласс, цвет навод�
 div.afisha {padding: 20px 50px 0 50px; background: #f2f2f2 url(images/headline.png) top repeat-x /*полоса headline*/;} /*Задаем внутренние поля в padding*/
 div.afisha img{float:left;} /*Для всех тегов "Афиша", а именно img*/
 div.afisha h3{font-size: 24px; font-weight: normal; text-align: center; color: #830000} /*Для всех тегов "Афиша", а именно h3*/
+div.afisha p{text-align: center;}
+div.afisha a{font-size: 20px; color: #fff; font-weight: bold;
+	background: #b23600; border: 1px solid #862000; padding: 5px 15px;
+	border-radius: 3px; box-shadow: 2px 2px 7px -1px #777; text-shadow:0px 0px 3px #752300;}
+div.afisha a:hover{background: #068bac; border: 1px solid #046b88; text-shadow:0px 0px 3px #034E61;}
+
+/*Главное меню*/
+div.menu{background: #1683a3; border: 1px solid #016c8b; border-leftL none; border-right: none;}
 
 div.clear{clear: both;}
