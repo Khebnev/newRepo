@@ -1,4 +1,8 @@
-body {background: #efefef url(images/fr.png);}
+body {background: #efefef url(images/fr.png); margin: 0; padding: 0; font: 16px/24px Arial, Tahoma, sans-serif;}
 
-/*Ñòðóêòóðà ñàéòà*/
-div.header{height: 100px; background: #101417;}
+/*Структура сайта*/
+div.mid {width: 1000px; margin: 0 auto;}
+div.header {background: #141457;}
+
+/*Шапка сайта*/
+div.topmenu{float: right;}
